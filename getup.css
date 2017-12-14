@@ -8,6 +8,12 @@
     -webkit-transition: all 0.3s ease;
 }
 
+@media (max-width: 480px){
+    body{
+        padding-right: 0px;
+        padding-left: 0px;}
+}
+
 p {
     display: block;
     margin-top: 1em;
