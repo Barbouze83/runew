@@ -8,10 +8,23 @@
     -webkit-transition: all 0.3s ease;
 }
 
+.mobile_display{
+ display: none;
+}
+
 @media (max-width: 480px){
+    
     body{
         padding-right: 0px;
         padding-left: 0px;}
+    
+    .mobile_display{
+        display: block;
+    }
+        
+    .desktop_display{
+        display: none;
+    }
 }
 
 p {
