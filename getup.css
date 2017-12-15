@@ -3,6 +3,8 @@
 .button_servselec_img {
     max-height:100%;
     max-width: 100%;
+    width: auto;
+    height: auto;
 }
 
 .button_servselec:hover {
