@@ -57,13 +57,20 @@ color: #4b79cf;
 
 h3 {
 font-family: 'Montserrat', sans-serif;
-font-size: 3vw;
+font-size: 120%;
 color: #4b79cf;
+line-height: 110%;
 }
 
 h4 {
 font-family: 'Montserrat', sans-serif;
+}
 
+.details {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60%;
+    color: #4b79cf;
+    line-height: 110%;
 }
 
   /*Smartphone style*/
