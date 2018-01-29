@@ -1,1 +1,223 @@
+/*animation de bouttons:*/
 
+.button_servselec_img {
+    max-height:100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
+
+.button_servselec:hover {
+    -webkit-transform: scale(1.1,1.1);
+    -ms-transform: scale(1.1,1.1);
+    transform: scale(1.1,1.1);
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+.mobile_display{
+ display: none;
+}
+
+@media (max-width: 480px){
+    
+    body{
+        padding-right: 0px;
+        padding-left: 0px;}
+    
+    .mobile_display{
+        display: block;
+    }
+        
+    .desktop_display{
+        display: none;
+    }
+}
+
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+font-size: 300%;
+}
+
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-size: 5vw;
+color: #4b79cf;
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+font-size: 140%;
+color: #4b79cf;
+line-height: 120%;
+}
+
+h4 {
+font-family: 'Montserrat', sans-serif;
+}
+
+.details {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80%;
+    color: #4b79cf;
+    line-height: 110%;
+}
+
+  /*Smartphone style*/
+@media only screen and (max-width : 320px) {
+h1 {
+font-size: 50%;
+}
+
+}
+
+#getupmobile {
+    display: none ;
+}
+
+.scrolltoact {
+position: fixed;
+bottom: 0;
+}
+
+body {
+font-family : sans-serif;
+}
+
+#smart4all{
+    width: 100vw;
+}
+
+@media (min-width: 1200px) {
+    .navbar-toggle {
+        display: none;
+    }
+}
+
+.row{
+   margin-right: 0;
+   margin-left:0;
+}
+
+.container img{
+display: block ;
+margin: 0 auto ;
+
+}
+.navbar-static-top {
+    background: white;
+    height: 80px;
+    padding: 10px;
+}
+header {
+    position: fixed;
+    top : 1;
+    right:0;
+    left : 0;
+    z-index : 15;
+}
+
+a.homelnktxt {
+text-decoration: none;
+color : white;
+}
+
+.homelink {
+  width: 100%;
+  text-align: center;
+  font-size : 250%;
+}
+
+#header-offset {
+   height : 80px;
+}
+
+/*animation de bouttons:*/
+
+.button_servselec:hover {
+    -webkit-transform: scale(1.1,1.1);
+    -ms-transform: scale(1.1,1.1);
+    transform: scale(1.1,1.1);
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+
+.s_big_picture,
+.bg-primary {
+    background: #4bcf93;
+    /* For browsers that do not support gradients */
+    
+    background: -webkit-linear-gradient(left top, #4bcf93 20%, #4b79cf);
+    /* For Safari 5.1 to 6.0 */
+    
+    background: -o-linear-gradient(bottom right, #4bcf93 20%, #4b79cf);
+    /* For Opera 11.1 to 12.0 */
+    
+    background: -moz-linear-gradient(bottom right, #4bcf93 20%, #4b79cf);
+    /* For Firefox 3.6 to 15 */
+    
+    background: linear-gradient(to top right, #4bcf93 20%, #4b79cf);
+    /* Standard syntax */
+    
+    ;
+}
+.btn_engage {
+    background-color: #18BC9C;
+    border-color: #18BC9C;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    
+    transition-duration: 0.4s;
+}
+.btn_engage:hover {
+    background-color: #355C7D;
+}
+.navbar-default .navbar-nav {
+    border-radius: 5px;
+}
+.navbar-collapse.navbar-top-collapse.in {
+    background-color: #0D8EB4;
+}
+button.navbar-toggle {
+    background-color: #4BAA92;
+    color: #2cb5e8;
+    border-radius: 5px;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: #e6e6ff;
+    color: #2cb5e8;
+    border-radius: 5px;
+}
+.panel-group {
+    z-index: 10;
+    position: relative;
+}
+.panel-heading {
+    cursor: pointer;
+}
+ul#top_menu a {
+    color: #355C7D;
+}
+ul#top_menu a:hover {
+    background-color: #355C7D;
+    border-radius: 5px;
+    color: #2cb5e8;
+}
+button {
+    background-color: transparent;
+    border: none;
+    outline: 0;
+}
