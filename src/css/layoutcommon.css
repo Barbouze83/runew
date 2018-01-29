@@ -21,6 +21,28 @@
 	}
 }
 
+@media (min-width: 1200px) {
+    .container {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
 .bg-alpha-gradient {
     background-color: #288a90;
     background-image: -webkit-linear-gradient(310deg, #288a90 20%, #0a4139 80%);
