@@ -185,14 +185,6 @@ color : white;
 .panel-heading {
     cursor: pointer;
 }
-ul#top_menu a {
-    color: #355C7D;
-}
-ul#top_menu a:hover {
-    background-color: #355C7D;
-    border-radius: 5px;
-    color: #2cb5e8;
-}
 button {
     background-color: transparent;
     border: none;
