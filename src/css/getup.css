@@ -1,4 +1,8 @@
 /*animation de bouttons:*/
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 .button_servselec_img {
     max-height:30vh;
@@ -43,34 +47,27 @@ p {
 }
 
 h1 {
-font-family: 'Montserrat', sans-serif;
 font-weight: 600;
 font-size: 300%;
 }
 
 
 h2 {
-font-family: 'Montserrat', sans-serif;
-font-size: 5vw;
-color: #4b79cf;
+
 }
 
 h3 {
-font-family: 'Montserrat', sans-serif;
-font-size: 140%;
 color: #4b79cf;
-line-height: 120%;
 }
 
 h4 {
-font-family: 'Montserrat', sans-serif;
 }
 
 .details {
-    font-family: 'Montserrat', sans-serif;
+    /*font-family: 'Montserrat', sans-serif;
     font-size: 80%;
     color: #4b79cf;
-    line-height: 110%;
+    line-height: 110%;*/
 }
 
   /*Smartphone style*/
