@@ -45,14 +45,23 @@
       }
       #background_hero {
          background-image: url("/web/static/src/img/Video_mobile_portrait.png");
+         background-repeat: no-repeat;
          height : 100%;
          width : auto;
      }
      
 }
 
-@media (max-width: 480px) and (orientation: portrait) {
-
+@media (max-width: 480px)  {
+      #video_hero {
+         display : none;
+      }
+      #background_hero {
+         background-image: url("/web/static/src/img/Video_mobile_portrait.png");
+         background-repeat: no-repeat;
+         height : 100%;
+         width : auto;
+     }
 }
 
 @media (max-width: 767px) and (min-width: 481px){
