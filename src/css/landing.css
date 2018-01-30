@@ -3,6 +3,20 @@
    float : right;
 }
 
+#video {
+   width: 100vw;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   z-index:-10;
+}
+
+@media (device-width: 480px) and (orientation: portrait) {
+   #video {
+      height: 100vh;
+   }
+}
+
 #login_div {
    padding-right : 50px;
 }
