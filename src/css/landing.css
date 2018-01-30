@@ -40,9 +40,15 @@
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
-      #video {
-         height: 100vh;
-      }  
+      #video_hero {
+         display : none;
+      }
+      #background_hero {
+         background-image: url("/web/static/src/img/Video_mobile_portrait.png");
+         height : 100%;
+         width : auto;
+     }
+     
 }
 
 @media (max-width: 480px) and (orientation: portrait) {
