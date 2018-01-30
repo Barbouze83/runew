@@ -60,6 +60,14 @@
          background-repeat: no-repeat;
          background-size: cover;
      }
+     #logo {
+      
+      padding-right: unset;  
+     }
+     #moto {
+         margin-top: 15px;
+         padding-right: unset;
+     }
 }
 
 @media (max-width: 767px) and (min-width: 481px){
