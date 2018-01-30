@@ -64,12 +64,13 @@
          background-size: cover;
      }
      #logo {
-      
-      padding-right: unset;  
+         padding-right: 10px;
+         padding-left : 10px 
      }
      #moto {
          margin-top: 15px;
-         padding-right: unset;
+         padding-right: 10px;
+         padding-left : 10px
          float: unset;
      }
 }
