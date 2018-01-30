@@ -56,7 +56,7 @@
       #video_hero {
          display : none;
       }
-      #background_hero {
+      #hero_ban {
          background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
          height : 100%;
