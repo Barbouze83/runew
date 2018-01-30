@@ -76,6 +76,9 @@
          padding-left : 10px;
          float: unset;
      }
+   footer {
+      display ; none;
+   }
 }
 
 @media (max-width: 767px) and (min-width: 481px){
