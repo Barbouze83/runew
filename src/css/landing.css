@@ -43,11 +43,11 @@
       #video_hero {
          display : none;
       }
-      #background_hero {
+      .hero-banner {
          background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
-         height : 100%;
-         width : auto;
+         width : 100%;
+         height : auto;
      }
      
 }
