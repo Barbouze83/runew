@@ -46,8 +46,7 @@
       #hero_ban {
          background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
-         width : 100%;
-         height : auto;
+         background-size: cover;
      }
      
 }
@@ -59,8 +58,7 @@
       #hero_ban {
          background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
-         height : 100%;
-         width : auto;
+         background-size: cover;
      }
 }
 
