@@ -24,7 +24,7 @@ body {
 }
 
 #customcarousel > h2 {
-    font-size: large;
+    font-size: -webkit-xxx-large;
     color: #4b79cf;    
 }
 
