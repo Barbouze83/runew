@@ -19,10 +19,12 @@
    height: 10vh;
 }
 #logo {
+   padding-left: 50px;
    max-height: 8vh;
    margin: 5px;
 }
 #moto {
+   padding-right: 50px;
    float : right;
 }
 .hero-banner h1 > span {
@@ -69,7 +71,7 @@
          text-align: center;
      }
      #moto {
-         margin-top: 15px;
+         margin-top: 25px;
          padding-right: 10px;
          padding-left : 10px;
          float: unset;
