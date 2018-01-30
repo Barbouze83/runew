@@ -43,7 +43,7 @@
       #video_hero {
          display : none;
       }
-      #hero-ban {
+      #hero_ban {
          background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
          width : 100%;
