@@ -12,20 +12,6 @@
    z-index:-10;
 }
 
-@media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-      #video {
-         height: 100vh;
-      }  
-}
-
-@media (max-width: 480px) and (orientation: portrait) {
-
-}
-
 #rowhero-banner {
    height: 10vh;
 }
@@ -45,6 +31,21 @@
     text-align: right;
     line-height: 110%;
 }
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+      #video {
+         height: 100vh;
+      }  
+}
+
+@media (max-width: 480px) and (orientation: portrait) {
+
+}
+
 @media (max-width: 767px) and (min-width: 481px){
    body {
     padding: 0 ;
