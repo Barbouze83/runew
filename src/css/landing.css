@@ -44,7 +44,7 @@
          display : none;
       }
       #background_hero {
-         background-image: url("/web/static/src/img/Video_mobile_portrait.png");
+         background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
          height : 100%;
          width : auto;
@@ -57,7 +57,7 @@
          display : none;
       }
       #background_hero {
-         background-image: url("/web/static/src/img/Video_mobile_portrait.png");
+         background-image: url("../img/Video_mobile_portrait.png");
          background-repeat: no-repeat;
          height : 100%;
          width : auto;
