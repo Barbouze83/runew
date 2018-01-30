@@ -23,6 +23,11 @@ body {
  display: none;
 }
 
+#customcarousel > h2 {
+    font-size: large;
+    color: #4b79cf;    
+}
+
 @media (max-width: 480px){
     
     body{
