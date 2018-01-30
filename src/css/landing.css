@@ -22,6 +22,9 @@
    max-height: 8vh;
    margin: 5px;
 }
+#moto {
+   float : right;
+}
 .hero-banner h1 > span {
    color : #034a56;
 }
@@ -67,6 +70,7 @@
      #moto {
          margin-top: 15px;
          padding-right: unset;
+         float: unset;
      }
 }
 
