@@ -1,6 +1,7 @@
 #login_div {
    width: 100%;
    float : right;
+   padding-right : 50px;
 }
 
 #video {
@@ -23,10 +24,6 @@
 
 @media (max-width: 480px) and (orientation: portrait) {
 
-}
-
-#login_div {
-   padding-right : 50px;
 }
 
 #login_div {}
