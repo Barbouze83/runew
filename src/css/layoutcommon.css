@@ -188,6 +188,10 @@ a.svg {
   table-layout: auto;
 }
 
+table#cart_products {
+  table-layout: auto;
+}
+
 
 @media (min-width: 768px){
 .navbar-nav > li > a {
