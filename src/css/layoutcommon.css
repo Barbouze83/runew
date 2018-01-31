@@ -184,14 +184,9 @@ a.svg {
     /*border-left: 2px solid #777777;*/
 }
 
-#cart_products {
-  table-layout: auto;
+#wrapwrap table.table, .o_editable table.table, #cart_products, table#cart_products   {
+    table-layout: auto;
 }
-
-table#cart_products {
-  table-layout: auto;
-}
-
 
 @media (min-width: 768px){
 .navbar-nav > li > a {
