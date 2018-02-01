@@ -108,8 +108,8 @@ display : none;
 .product{
     position : relative;
     min-height: 1px;
-    padding-right: 0px;
-    padding-left: 0px;
+    /*padding-right: 0px;
+    padding-left: 0px;*/
    border-style: none;
 }
 .category-products .products .product-container {
