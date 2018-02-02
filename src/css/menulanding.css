@@ -22,6 +22,10 @@ header {
   margin-bottom : 0px;
 }
 
+ul#top_menu > li {
+  border : none;
+}
+
 ul#top_menu > li:nth-child(-n+4) {
 display : none;
 }
