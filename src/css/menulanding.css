@@ -3,7 +3,7 @@ header {
   position : fixed;
 }
 
-.navbar navbar-default navbar-static-top {
+.navbar .navbar-default .navbar-static-top {
   background : transparent;
   box-shadow : unset;
 }
