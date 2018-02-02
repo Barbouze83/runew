@@ -17,6 +17,11 @@ header {
   display : none;
 }
 
+#top_menu {
+  margin-top : 0px;
+  margin-bottom : 0px;
+}
+
 ul#top_menu > li:nth-child(-n+4) {
 display : none;
 }
