@@ -8,6 +8,11 @@ header {
   box-shadow : unset;
 }
 
+.navbar-default {
+  background : transparent;
+  box-shadow : unset;
+}
+
 .navbar-header {
   display : none;
 }
