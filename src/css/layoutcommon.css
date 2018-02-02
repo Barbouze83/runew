@@ -125,8 +125,10 @@ a.svg {
 	border-bottom: 2px solid rgba(255, 255, 255, 1);
 }
 
+.navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .dropdown > a,
 .navbar-default .navbar-nav > .dropdown > a:hover,
 .navbar-default .navbar-nav > .dropdown > a:focus {
     font-weight: 450;
