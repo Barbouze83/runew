@@ -17,7 +17,7 @@ header {
   display : none;
 }
 
-#top-menu li:nth-child(-n+4) {
+#top-menu > li:nth-child(-n+4) {
 display : none;
 }
 
