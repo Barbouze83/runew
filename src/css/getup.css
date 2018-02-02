@@ -99,11 +99,11 @@ bottom: 0;
     width: 100vw;
 }
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
     .navbar-toggle {
         display: none;
     }
-}
+}*/
 
 .row{
    margin-right: 0;
