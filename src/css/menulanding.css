@@ -22,7 +22,7 @@ header {
   margin-bottom : 0px;
 }
 
-ul#top_menu > li {
+ul#top_menu > li > a {
   border : none;
 }
 
