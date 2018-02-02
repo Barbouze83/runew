@@ -17,6 +17,7 @@ body {
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
 }
+.button_servselec:focus img,
 .button_servselec:hover img{
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
