@@ -29,6 +29,7 @@
 }
 .hero-banner h1 > span {
    color : #034a56;
+   font-weight: 600;
 }
 .hero-banner h1 {
     font-size: 50px;
@@ -38,9 +39,6 @@
     /*text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 3px 3px 0px rgba(0,0,0,0.05);*/
     text-align: right;
     line-height: 110%;
-}
-.hero-banner span {
-   font-weight:600;
 }
 
 @media only screen 
