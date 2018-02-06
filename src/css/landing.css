@@ -57,12 +57,37 @@
      
 }
 
-@media (max-width: 480px)  {
+@media (max-width: 480px) and (orientation: portrait) {
       #video_hero {
          display : none;
       }
       #hero_ban {
          background-image: url("../img/Landing_HQ_portrait.png");
+         background-repeat: no-repeat;
+         background-size: cover;
+     }
+     #logo {
+         padding-right: 10px;
+         padding-left : 10px;
+         text-align: center;
+     }
+     #moto {
+         margin-top: 25px;
+         padding-right: 10px;
+         padding-left : 10px;
+         float: unset;
+     }
+   footer {
+      height : 0px;
+   }
+}
+
+@media (max-width: 480px) and (orientation: paysage) {
+      #video_hero {
+         display : none;
+      }
+      #hero_ban {
+         background-image: url("../img/Landing_HQ_paysage.png");
          background-repeat: no-repeat;
          background-size: cover;
      }
