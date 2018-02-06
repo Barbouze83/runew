@@ -62,7 +62,7 @@
          display : none;
       }
       #hero_ban {
-         background-image: url("../img/Landing_HQ_portrait.png");
+         background-image: url("../img/landing_HQ_portrait.png");
          background-repeat: no-repeat;
          background-size: cover;
      }
@@ -87,7 +87,7 @@
          display : none;
       }
       #hero_ban {
-         background-image: url("../img/Landing_HQ_paysage.png");
+         background-image: url("../img/landing_HQ_paysage.png");
          background-repeat: no-repeat;
          background-size: cover;
      }
