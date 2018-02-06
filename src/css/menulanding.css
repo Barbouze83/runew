@@ -35,6 +35,10 @@ display : none;
       background: rgba(0, 0, 0, 0.44);
       margin-left: 20px;
   }
+  .dropdown-menu {
+    position: unset;
+    background: rgba(0, 0, 0, 0.60);
+  }
   
 }
 
