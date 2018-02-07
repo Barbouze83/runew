@@ -64,7 +64,7 @@ border-bottom: 1px solid white;
          display : none;
       }
       #hero_ban {
-         background-image: url("../img/landing_HQ_portrait.png");
+         background-image: url("../img/landing_HQ_portrait.jpg");
          background-repeat: no-repeat;
          background-size: cover;
      }
@@ -76,7 +76,7 @@ border-bottom: 1px solid white;
          display : none;
       }
       #hero_ban {
-         background-image: url("../img/landing_HQ_portrait.png");
+         background-image: url("../img/landing_HQ_portrait.jpg");
          background-repeat: no-repeat;
          background-size: cover;
      }
@@ -101,7 +101,7 @@ border-bottom: 1px solid white;
          display : none;
       }
       #hero_ban {
-         background-image: url("../img/landing_HQ_paysage.png");
+         background-image: url("../img/landing_HQ_paysage.jpg");
          background-repeat: no-repeat;
          background-size: cover;
      }
