@@ -45,11 +45,7 @@
    font-size : 18px;
 }
 
-#features h2{
-   text-decoration : underline;
-}
-
-.col-md-4 .text-center:after {
+div[class="col-md-4 text-center"]:after {
 content: '';
 position: absolute;
 width: 50%;
