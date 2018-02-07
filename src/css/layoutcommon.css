@@ -89,7 +89,7 @@ a.svg {
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-    margin-right: 20px;
+    margin-right: 0px;
 }
 
 #top_menu {
@@ -223,6 +223,10 @@ a.svg {
 
 /*change le breakpoint pour la navbar à 1000px (768 par défaut trop faible)*/
 @media (max-width: 1000px) {
+
+   .nav > li {
+       margin: 5px 0px 5px 0px;
+   }
 	
    .dropdown-menu {
       position : unset;

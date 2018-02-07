@@ -30,14 +30,17 @@ ul#top_menu > li:nth-child(-n+4) {
 display : none;
 }
 
-@media (max-width: 480px) and (orientation: portrait) {
+@media (max-width: 1000px){
   ul#top_menu {
       background: rgba(0, 0, 0, 0.44);
       margin-left: 20px;
   }
-  .dropdown-menu {
+  #tope_menu.dropdown-menu {
     position: unset;
     background: rgba(0, 0, 0, 0.60);
+  }
+  #top_menu.dropdown-menu > li > a {
+    color : white;
   }
   
 }
