@@ -39,6 +39,9 @@ display : none;
     position: unset;
     background: rgba(0, 0, 0, 0.60);
   }
+  .dropdown-menu > li > a {
+    color : white;
+  }
   
 }
 
