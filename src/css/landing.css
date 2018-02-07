@@ -87,6 +87,9 @@ border-bottom: 1px solid white;
       #video_hero {
          display : none;
       }
+      #svg-logo {
+         width : 50vw; 
+      }
       #hero_ban {
          background-image: url("../img/landing_HQ_portrait.jpg");
          background-repeat: no-repeat;
