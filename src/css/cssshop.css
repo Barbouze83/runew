@@ -12,6 +12,12 @@ display : none;
     background: transparent;
 }
 
+@media (max-width: 1000px){
+    #categories-menu .navbar-nav > li >a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    }
+}
 @media (max-width: 767px) {
     /*Boutton produit por petits ecrans*/
     .products .product-left {
