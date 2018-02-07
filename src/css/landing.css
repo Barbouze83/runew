@@ -41,6 +41,15 @@
     line-height: 110%;
 }
 
+h3#features {
+   font-size : 18px;
+}
+
+h2#features {
+   text-decoraction : underline;
+}
+
+
 @media only screen 
   and (min-width: 320px) 
   and (max-width: 480px)
