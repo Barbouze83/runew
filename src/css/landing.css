@@ -41,11 +41,11 @@
     line-height: 110%;
 }
 
-h3#features {
+#features h3{
    font-size : 18px;
 }
 
-h2#features {
+#features h2{
    text-decoration : underline;
 }
 
