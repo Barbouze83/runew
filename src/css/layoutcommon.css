@@ -194,7 +194,7 @@ a.svg {
 .nav > li {
     position: relative;
     display: block;
-    margin: 5px 0px 5px 0px;
+    margin: 5px 20px 5px 0px;
     /*height: 35px;*/
     /*border-left: 2px solid #777777;*/
 }
@@ -223,6 +223,10 @@ a.svg {
 
 /*change le breakpoint pour la navbar à 1000px (768 par défaut trop faible)*/
 @media (max-width: 1000px) {
+
+   .nav > li {
+       margin: 5px 0px 5px 0px;
+   }
 	
    .dropdown-menu {
       position : unset;
