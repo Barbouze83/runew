@@ -65,22 +65,20 @@ border-bottom: 1px solid white;
    #logo-moto {
       margin-top : 32px !important;
    }
-}
-
-@media only screen 
-  and (min-width: 320px) 
-  and (max-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-      #video_hero {
-         display : none;
-      }
-      #hero_ban {
-         background-image: url("../img/landing_HQ_portrait.jpg");
-         background-repeat: no-repeat;
-         background-size: cover;
-     }
-     
+   #svg-logo {
+         width : 40vw; 
+   }   
+   #logo {
+         padding-right: 10px;
+         padding-left : 10px;
+         text-align: center;
+   }
+   #moto {
+         margin-top: 25px;
+         padding-right: 10px;
+         padding-left : 10px;
+         float: unset;
+   }
 }
 
 @media (max-width: 480px) {
@@ -92,31 +90,6 @@ border-bottom: 1px solid white;
       }
       #hero_ban {
          background-image: url("../img/landing_HQ_portrait.jpg");
-         background-repeat: no-repeat;
-         background-size: cover;
-     }
-     #logo {
-         padding-right: 10px;
-         padding-left : 10px;
-         text-align: center;
-     }
-     #moto {
-         margin-top: 25px;
-         padding-right: 10px;
-         padding-left : 10px;
-         float: unset;
-     }
-   footer {
-      height : 0px;
-   }
-}
-
-@media (max-width: 480px) and (orientation: paysage) {
-      #video_hero {
-         display : none;
-      }
-      #hero_ban {
-         background-image: url("../img/landing_HQ_paysage.jpg");
          background-repeat: no-repeat;
          background-size: cover;
      }
