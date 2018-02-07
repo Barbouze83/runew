@@ -224,7 +224,7 @@ a.svg {
 /*Enlève des élements du footer pour les petits devices*/
 @media (max-width: 480px) {
 	#about_footer,
-	link_footer{
+	#link_footer{
 		display : none;
 	}
 }
