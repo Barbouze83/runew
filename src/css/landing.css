@@ -56,7 +56,7 @@ border-bottom: 1px solid white;
 
 @media (max-width : 1000px) {
    #logo-moto {
-      margin-top : 32px;
+      margin-top : 32px !important;
    }
 }
 
