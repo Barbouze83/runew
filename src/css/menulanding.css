@@ -31,7 +31,7 @@ display : none;
 }
 
 @media (maw-width: 1000px) {
-  ul#top_menu {
+  #top_menu {
     background : white;
   }
   ul#top_menu > li > a {
