@@ -1,6 +1,8 @@
-ul#categories-menu > li:first-child {
+ul#top_menu > li:first-child {
 display : none;
 }
+
+
 
 #categories-menu ul.nav li.dropdown:hover ul.dropdown-menu {
     display: block;
