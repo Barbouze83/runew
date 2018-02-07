@@ -20,8 +20,8 @@
    height: 10vh;
 }
 
-#svg-logo{ /* svg into : object, img or inline */
-  width : 15vw;
+#svg-logo{
+  width : 25vw;
   height : auto;
   max-width : 300px;
 }
