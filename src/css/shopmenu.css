@@ -3,6 +3,12 @@
     display: block;
 }
 
+#categories-menu #menu-header > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 15px;
+}
+
 #categories-menu .dropdown-menu {
     width: 100%;
     position: fixed;
@@ -90,8 +96,6 @@
 @media (max-width: 767px) {
     /*fin boutton produit petits ecrans */
     #categories-menu .navbar {
-        border: none;
-        border-bottom: 1px solid transparent;
         margin-bottom: 0px;
         min-height : 100%;
     }
@@ -211,10 +215,6 @@
 }
 
 @media (max-width: 768px) {
-    #categories-menu .navigacija > ul {
-        margin-top: 0;
-        margin-left: 0 !important;
-    }
     #categories-menu .navbar-collapse.collapse {
         overflow: visible !important
     }
