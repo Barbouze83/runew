@@ -19,6 +19,14 @@
 #rowhero-banner {
    height: 10vh;
 }
+
+.my-svg{ /* svg into : object, img or inline */
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 #logo {
    padding-left: 50px;
    max-height: 8vh;
