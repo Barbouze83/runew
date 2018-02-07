@@ -108,7 +108,7 @@ a.svg {
   color : #FFFFFF;
 }*/
 .navbar-default .navbar-nav > li > a {
-    line-height: 50px;
+    /*line-height: 50px;*/
     color : white;
     border-top: 1px solid rgba(255, 255, 255, 0.29);
     border-bottom: 1px solid rgba(255, 255, 255, 1);
