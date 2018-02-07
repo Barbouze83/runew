@@ -89,7 +89,7 @@ a.svg {
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-    margin-right: 20px;
+    margin-right: 0px;
 }
 
 #top_menu {
@@ -194,7 +194,7 @@ a.svg {
 .nav > li {
     position: relative;
     display: block;
-    margin: 5px 20px 5px 0px;
+    margin: 5px 0px 5px 0px;
     /*height: 35px;*/
     /*border-left: 2px solid #777777;*/
 }
