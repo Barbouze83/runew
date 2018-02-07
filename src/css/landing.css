@@ -114,7 +114,7 @@ border-bottom: 1px solid white;
     padding: 0 ;
    }
 }
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
    .hero-banner h1 {
      text-align: center;
      margin : 0px 10px 0px 10px;
@@ -132,5 +132,5 @@ border-bottom: 1px solid white;
    }
    #logo.pull-left {
     float: unset !important;
-}
+}*/
 
