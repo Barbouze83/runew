@@ -53,8 +53,8 @@ display : none;
    #categories-menu .nav > li > a {
       padding-top : 0px;
       padding-bottom : 0px;
-      padding-left : 0px;
-      padding-right: 0px;
+      /*padding-left : 0px;
+      padding-right: 0px;*/
    }
    #categories-menu .navbar-nav {
       margin : 0px 0px 0px 0px;
