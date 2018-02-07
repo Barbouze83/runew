@@ -1,3 +1,7 @@
+ul#top_menu > li:first-child {
+display : none;
+}
+
 #wrap {
 	margin-left : 15px;
 	margin-right : 15px;
