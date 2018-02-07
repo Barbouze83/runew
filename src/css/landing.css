@@ -20,11 +20,10 @@
    height: 10vh;
 }
 
-.my-svg{ /* svg into : object, img or inline */
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
+#svg-logo{ /* svg into : object, img or inline */
+  width : 15vw;
+  height : auto;
+  max-width : 300px;
 }
 
 #logo {
