@@ -62,7 +62,7 @@
         min-height : 100%;
 }
 
-#categories-menu .nav navbar-nav navbar-left {
+#categories-menu .nav .navbar-nav .navbar-left {
     width : 100%;
     margin : auto;
 }
