@@ -221,6 +221,15 @@ a.svg {
     height: 3px;
 }
 
+/*Enlève des élements du footer pour les petits devices*/
+@media (max-width: 480px) {
+	#about_footer,
+	link_footer{
+		display : none;
+	}
+}
+
+
 /*change le breakpoint pour la navbar à 1000px (768 par défaut trop faible)*/
 @media (max-width: 992px) {
 
