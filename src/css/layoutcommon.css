@@ -206,12 +206,6 @@ a.svg {
   }
 }
 
-@media (max-width: 768px){
-  .navbar-default .navbar-nav > li > a{
-    line-height : 20px;
-  }
-}
-
 .navbar-default .navbar-toggle {
 	margin-right: 25px;
 	margin-top: 25px;	
@@ -232,6 +226,10 @@ a.svg {
 
 /*change le breakpoint pour la navbar à 1000px (768 par défaut trop faible)*/
 @media (max-width: 1000px) {
+  .navbar-default .navbar-nav > li > a{
+    line-height : 10px;
+    border : 0;
+  }
   .navbar-header {
       float: none;
   }
