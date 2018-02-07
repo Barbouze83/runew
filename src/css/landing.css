@@ -25,7 +25,9 @@
   height : auto;
   max-width : 300px;
 }
-
+#logo-moto {
+   height: 35vh;
+}
 #logo {
    padding-left: 50px;
    margin: 5px;
