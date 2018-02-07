@@ -1,6 +1,5 @@
-@media (max-width: 992px) {
-   
-    
+ul#categories-menu > li:first-child {
+display : none;
 }
 
 #categories-menu ul.nav li.dropdown:hover ul.dropdown-menu {
