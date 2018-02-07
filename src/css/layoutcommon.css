@@ -227,9 +227,8 @@ a.svg {
 /*change le breakpoint pour la navbar à 1000px (768 par défaut trop faible)*/
 @media (max-width: 1000px) {
 	
-  .navbar-right .dropdown-menu {
-    left: auto;
-    /* right: 0; */
+.dropdown-menu {
+    position : unset;
    }
   .navbar-default .navbar-nav > li > a{
     line-height : 10px;
