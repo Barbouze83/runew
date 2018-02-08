@@ -92,7 +92,7 @@ border-bottom: 1px solid white;
 }
 
 @media (max-width: 640px) {
-   section.s_parallax {
+   #paral {
       background-attachment:initial;
    }
 }
