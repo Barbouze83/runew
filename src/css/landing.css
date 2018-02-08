@@ -98,6 +98,7 @@ border-bottom: 1px solid white;
 
 @media (max-width: 640px) {
    #paral {
+      background-size: 100% 100%;
       background-attachment:initial !important;
    }
 }
