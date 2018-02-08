@@ -4,6 +4,10 @@
    padding-right : 50px;
 }
 
+footer{
+   visibility : hidden;
+}
+
 #video_hero {
    width: 100%;
    height: auto;
