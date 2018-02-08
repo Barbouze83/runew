@@ -4,6 +4,11 @@
    padding-right : 50px;
 }
 
+#paral {
+    background-attachment: fixed;
+    background-position: 0px 0px;
+}
+
 footer{
    visibility : hidden;
 }
