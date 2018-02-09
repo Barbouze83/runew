@@ -138,6 +138,80 @@ border-bottom: 1px solid white;
     padding: 0 ;
    }
 }
+
+/*ipad*/
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) { 
+   #video_hero {
+         display : none;
+      }
+      #svg-logo {
+         width : 50vw; 
+      }
+      #hero_ban {
+         background-image: url("../img/landing_HQ_paysage2.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+     }
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+    #video_hero {
+         display : none;
+      }
+      #svg-logo {
+         width : 50vw; 
+      }
+      #hero_ban {
+         background-image: url("../img/landing_HQ_portrait2.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+     }
+}
+/* iPad retina */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 2){
+   #video_hero {
+         display : none;
+      }
+      #svg-logo {
+         width : 50vw; 
+      }
+      #hero_ban {
+         background-image: url("../img/landing_HQ_paysage2.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+     }
+}
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio: 2){
+   #video_hero {
+         display : none;
+      }
+      #svg-logo {
+         width : 50vw; 
+      }
+      #hero_ban {
+         background-image: url("../img/landing_HQ_portrait2.jpg");
+         background-repeat: no-repeat;
+         background-size: cover;
+     }
+}
+
+
+   
+ 
 /*@media (max-width: 768px) {
    .hero-banner h1 {
      text-align: center;
