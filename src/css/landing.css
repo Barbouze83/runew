@@ -18,6 +18,11 @@
    z-index:-10;
 }
 
+#buyer_footer,
+#link_footer {
+   display:none;
+}
+
 #picture_hero{
 }
 
