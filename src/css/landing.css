@@ -10,8 +10,10 @@
 }
 
 #video_hero {
-   width: 100%;
-   height: auto;
+   min-height: 100vh;
+   min-width: 100vw;
+   /*width: 100%;
+   height: auto;*/
    position: absolute;
    top: 0px;
    left: 0px;
