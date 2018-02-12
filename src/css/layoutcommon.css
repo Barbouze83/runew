@@ -38,9 +38,11 @@ footer .block-social .list-social li {
     border-left: solid #333333 1px;
 }
 
-footer .block-social .list-social li:first-child {
+footer .block-social .list-social li:first-child,
+footer .block-social .list-social li:nth-child(5),
+footer .block-social .list-social li:nth-child(6){
 	border-left: none;
-	}
+}
 
 footer .fa {
   /*padding: 20px;
