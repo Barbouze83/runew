@@ -25,6 +25,19 @@ footer{
 
 /* footer */
 
+footer .block-social .list-social li > a {
+	display : inline;
+}
+
+footer .block-social .list-social li {
+    list-style: none;
+    display: inline;
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-left: solid #333333 1px;
+}
+
 footer .fa {
   /*padding: 20px;
   font-size: 30px;*/
