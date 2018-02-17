@@ -23,6 +23,7 @@ a.svg {
 }
 
 ul#top_menu > li > a {
+  line-heigth : 30px;
   border : none;
 }
 
