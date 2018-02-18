@@ -2,7 +2,13 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
-
+        /*loop attention seeker animation:*/
+.atseekloop {
+animation-iteration-count: infinite;
+-webkit-animation-iteration-count: infinite;
+-moz-animation-iteration-count: infinite;
+-o-animation-iteration-count: infinite;
+}
 
 .button_servselec_img {
     max-height:40vh;
@@ -11,6 +17,7 @@ body {
     height: auto;
 }
 
+/*boutons de selection de service sur la landing page:*/
 .button_servselec img{
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
