@@ -1,6 +1,8 @@
 header {
   display : unset;
   position : fixed;
+  right: 0px;
+  z-index: 999;
 }
 
 .navbar .navbar-default .navbar-static-top {
