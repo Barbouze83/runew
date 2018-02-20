@@ -39,6 +39,11 @@
     text-align : center;
     border : none;
 }
+
+#categories-menu .dropdown-level-phone > li : hover {
+    background-color : grey;
+}
+
 #categories-menu .navbar-default .navbar-nav > li > a:hover,
 #categories-menu .navbar-default .navbar-nav > li > a:focus {
     color: #1abb9c;
