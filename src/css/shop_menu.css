@@ -134,12 +134,7 @@
     line-height: 1.42857143;
     color: #333333;
     white-space: nowrap;
-   }
-    
-   #categories-menu .navbar-nav .open .dropdown-menu > li:hover {
-       background-color: #33333;
-    }
-   
+   } 
    #categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
    #categories-menu .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #262626;
