@@ -27,6 +27,10 @@
 #categories-menu .dropdown-menu li {
     display: inline-block;
 }
+
+#categories-menu .dropdown-menu > li:hover {
+    background-color : grey;
+}
 #categories-menu .dropdown-menu li.dropdown .dropdown-menu {
     top: 50px;
 }
