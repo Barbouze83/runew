@@ -40,7 +40,7 @@
     border : none;
 }
 
-#categories-menu .dropdown-level-phone > li:hover {
+#categories-menu li.dropdown-level-phone:hover {
     background-color : grey;
 }
 
