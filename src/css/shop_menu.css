@@ -83,7 +83,7 @@
 #categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
 #categories-menu .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #1abb9c;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.1);
    }
 
 #categories-menu .navbar .container .navbar-nav > li > .dropdown-menu {
