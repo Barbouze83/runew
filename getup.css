@@ -34,6 +34,11 @@
     }
 }
 
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
 p {
     display: block;
     margin-top: 1em;
