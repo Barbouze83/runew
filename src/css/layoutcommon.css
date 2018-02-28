@@ -177,8 +177,8 @@ a.svg {
 	color: white;
 	background-color: rgba(43, 43, 43, 0.24);
 	border-radius: 0;
-	border-top: 2px solid rgba(255, 255, 255, 0.29);
-	border-bottom: 2px solid rgba(255, 255, 255, 1);
+	border-top: 1px solid rgba(255, 255, 255, 0.29);
+	border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
 .navbar-default .navbar-nav > .open > a,
@@ -191,8 +191,8 @@ a.svg {
     color: white;
     background-color: rgba(43, 43, 43, 0.24);
 	border-radius: 0;
-	border-top: 2px solid rgba(255, 255, 255, 0.29);
-	border-bottom: 2px solid rgba(255, 255, 255, 1);
+	border-top: 1px solid rgba(255, 255, 255, 0.29);
+	border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
 .navbar-default .navbar-nav > .dropdown-menu > li > a:hover,
@@ -201,8 +201,8 @@ a.svg {
     color: white;
     background-color: rgba(43, 43, 43, 0.24);
 	border-radius: 0;
-	border-top: 2px solid rgba(255, 255, 255, 0.29);
-	border-bottom: 2px solid rgba(255, 255, 255, 1);
+	border-top: 1px solid rgba(255, 255, 255, 0.29);
+	border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
 .navbar-default .navbar-nav > .dropdown-menu > ul {
@@ -215,8 +215,8 @@ a.svg {
     color: white;
     background-color: rgba(43, 43, 43, 0.24);
 	border-radius: 0;
-	border-top: 2px solid rgba(255, 255, 255, 0.29);
-	border-bottom: 2px solid rgba(255, 255, 255, 1);
+	border-top: 1px solid rgba(255, 255, 255, 0.29);
+	border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
 .navbar-default .navbar-nav > li > a:hover,
@@ -225,8 +225,8 @@ a.svg {
     color: white;
     background-color: rgba(43, 43, 43, 0.24);
 	border-radius: 0;
-	border-top: 2px solid rgba(255, 255, 255, 0.29);
-	border-bottom: 2px solid rgba(255, 255, 255, 1);
+	border-top: 1px solid rgba(255, 255, 255, 0.29);
+	border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
 .navbar-default .navbar-nav > .open > a {
@@ -239,8 +239,8 @@ a.svg {
     color: white;
     background-color: rgba(43, 43, 43, 0.24);
 	border-radius: 0;
-	border-top: 2px solid rgba(255, 255, 255, 0.29);
-	border-bottom: 2px solid rgba(255, 255, 255, 1);
+	border-top: 1px solid rgba(255, 255, 255, 0.29);
+	border-bottom: 1px solid rgba(255, 255, 255, 1);
 }
 
 .nav > li {
