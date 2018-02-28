@@ -9,7 +9,7 @@
     padding-bottom: 10px;
     line-height: 15px;
 }
-#categories-menu .dropdown .open .dropdown-menu,
+/*#categories-menu .dropdown .open .dropdown-menu,*/
 #categories-menu .dropdown-menu {
     width: 100%;
     position: fixed;
@@ -28,9 +28,9 @@
     display: inline-block;
 }
 
-#categories-menu li.dropdown .dropdown-menu {
+/*#categories-menu li.dropdown .dropdown-menu {
     top: 50px;
-}
+}*/
 #categories-menu .navbar-default .navbar-nav > .open > a, 
 #categories-menu .navbar-default .navbar-nav > .open > a:hover {
    background-color : white;
