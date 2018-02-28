@@ -9,7 +9,7 @@
     padding-bottom: 10px;
     line-height: 15px;
 }
-#categories-menu .dropdown-menu .open,
+#categories-menu .dropdown .open .dropdown-menu,
 #categories-menu .dropdown-menu {
     width: 100%;
     position: fixed;
