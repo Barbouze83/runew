@@ -28,7 +28,7 @@
     display: inline-block;
 }
 
-#categories-menu .dropdown-menu li.dropdown .dropdown-menu {
+#categories-menu li.dropdown .dropdown-menu {
     top: 50px;
 }
 #categories-menu .navbar-default .navbar-nav > .open > a, 
@@ -70,7 +70,7 @@
     width : 100%;
     margin : auto;
 }
-
+#categories-menu .navbar-nav .open .dropdown-menu > li > a,
 #categories-menu .navbar-nav .open .dropdown-menu > li > a {
     display: block;
     padding: 3px 35px;
@@ -79,7 +79,9 @@
     line-height: 1.42857143;
     color: #333333;
     white-space: nowrap;
-   } 
+   }
+#categories-menu .navbar-nav .dropdown-menu > li > a:hover,
+#categories-menu .navbar-nav .dropdown-menu > li > a:focus
 #categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
 #categories-menu .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #1abb9c;
