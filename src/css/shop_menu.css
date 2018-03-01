@@ -15,7 +15,7 @@
     margin: 0px 0px 0px 0px;
 }
 
-#categories-menu .dropdown .open .dropdown-menu,
+/*#categories-menu .dropdown .open .dropdown-menu,*/
 #categories-menu .dropdown-menu {
     width: 100%;
     position: fixed;
@@ -75,7 +75,7 @@
     margin : auto;
 }
 #categories-menu .navbar-nav .dropdown-menu > li > a,
-#categories-menu .navbar-nav .open .dropdown-menu > li > a {
+/*#categories-menu .navbar-nav .open .dropdown-menu > li > a */{
     display: block;
     padding: 3px 35px;
     clear: both;
