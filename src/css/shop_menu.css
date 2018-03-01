@@ -82,8 +82,8 @@
    }
 #categories-menu .navbar-nav .dropdown-menu > li > a:hover,
 #categories-menu .navbar-nav .dropdown-menu > li > a:focus
-#categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
-#categories-menu .navbar-nav .open .dropdown-menu > li > a:focus {
+/*#categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
+#categories-menu .navbar-nav .open .dropdown-menu > li > a:focus*/ {
     color: #1abb9c;
     background-color: rgba(0,0,0,0.1);
    }
