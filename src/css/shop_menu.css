@@ -12,6 +12,7 @@
 
 #menu-header {
     float : unset !important;
+    margin: 0px 0px 0px 0px;
 }
 
 #categories-menu .dropdown .open .dropdown-menu,
@@ -139,9 +140,9 @@
       /*padding-left : 0px;
       padding-right: 0px;*/
    }
-   #categories-menu .navbar-nav {
+   /*#categories-menu .navbar-nav {
       margin : 0px 0px 0px 0px;
-   }
+   }*/
    #categories-menu .navbar-default .navbar-nav > li > a {
       line-height : 20px;
    }
