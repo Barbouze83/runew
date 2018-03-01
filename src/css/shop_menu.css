@@ -61,6 +61,7 @@
         border-bottom: 1px solid transparent;
         margin-bottom: 0px;
         min-height : 100%;
+        border-radius : 0px;
 }
 
 #categories-menu .nav .navbar-nav .navbar-left {
