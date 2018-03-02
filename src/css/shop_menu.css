@@ -75,8 +75,8 @@
     margin : auto;
 }
 /*#categories > li > a,*/
-/*#categories-menu .navbar-nav .dropdown-menu > li > a*/
-/*#categories-menu .navbar-nav .open .dropdown-menu > li > a */{
+/*#categories-menu .navbar-nav .dropdown-menu > li > 
+/*#categories-menu .navbar-nav .open .dropdown-menu > li > a {
 /*    display: block;
     padding: 3px 35px;
     clear: both;
