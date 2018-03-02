@@ -16,7 +16,7 @@
 }
 
 /*#categories-menu .dropdown .open .dropdown-menu,*/
-#categories-menu .dropdown-menu {
+/*#categories-menu .dropdown-menu {
     width: 100%;
     position: fixed;
     top: 126px;
@@ -29,7 +29,7 @@
     margin: 0 auto;
     text-align: center;
     transition: 0.2s 1s;
-}
+}*/
 /*#categories-menu .dropdown-menu li {
     display: inline-block;
 }*/
