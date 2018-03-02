@@ -75,16 +75,17 @@
     margin : auto;
 }
 /*#categories > li > a,*/
-/*#categories-menu .navbar-nav .dropdown-menu > li > 
-/*#categories-menu .navbar-nav .open .dropdown-menu > li > a {
-/*    display: block;
+#categories-menu .navbar-nav .dropdown-menu > li > 
+/*#categories-menu .navbar-nav .open .dropdown-menu > li > a*/ {
+   display: block;
     padding: 3px 35px;
     clear: both;
     font-weight: normal;
     line-height: 1.42857143;
     color: #333333;
     white-space: nowrap;
-   }*/
+   }
+
 #categories-menu .navbar-nav .dropdown-menu > li > a:hover,
 #categories-menu .navbar-nav .dropdown-menu > li > a:focus
 /*#categories-menu .navbar-nav .open .dropdown-menu > li > a:hover,
