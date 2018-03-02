@@ -22,17 +22,16 @@
     top: 126px;
     left: 0;
     z-index: 1000;
-    display: none;
+    /*display: none;*/
     float: left;
     min-width: 160px;
     padding: 5px 0;
     margin: 0 auto;
     text-align: center;
-    /*transition: 0.2s 1s;*/
 }
-/*#categories-menu .dropdown-menu li {
+#categories-menu .dropdown-menu li {
     display: inline-block;
-}*/
+}
 
 #categories-menu .navbar-default .navbar-nav > .open > a, 
 #categories-menu .navbar-default .navbar-nav > .open > a:hover {
