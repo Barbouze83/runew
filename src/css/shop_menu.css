@@ -30,9 +30,9 @@
     text-align: center;
     transition: 0.2s 1s;
 }
-#categories-menu .dropdown-menu li {
+/*#categories-menu .dropdown-menu li {
     display: inline-block;
-}
+/*}
 
 #categories-menu .navbar-default .navbar-nav > .open > a, 
 #categories-menu .navbar-default .navbar-nav > .open > a:hover {
