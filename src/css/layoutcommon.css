@@ -20,7 +20,7 @@ footer{
 }
 .container {
 	padding-left : 0;
-	padding-right : 0;
+	padding-right : 0;hrg-
 }
 
 /* footer */
@@ -299,6 +299,8 @@ a.svg {
   }
   .navbar-header {
       float: none;
+      margin-left: 0;
+      margin-right: 0;
   }
   .navbar-left,.navbar-right {
       float: none !important;
