@@ -155,13 +155,14 @@ background:none;
         overflow: hidden;
         font-size: 14px;
     }   
+    
     .col-xs-12 {
         width : 50%;
+    }
         
     .stock-pannel {
         position: absolute;
     }   
         
-    }
     /*fin boutton produit petits ecrans */
 }
