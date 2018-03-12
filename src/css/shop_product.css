@@ -93,7 +93,7 @@ background:none;
 .products_pager { 
     display : none;
 }
-div.sortPagiBar:first-child {
+.sortPagiBar:first-of-type {
     display : none;
 }
 .quick-view {
