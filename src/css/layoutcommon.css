@@ -83,11 +83,11 @@ footer .fa {
 	background : transparent;
 	height : 62px;
 	position : relative;
+	margin-top : 20px;
 }
 
 #search2{
 	height : 62px;
-	margin-top : 20px;
 	padding : 0 10px;
 	border : none;
 	width : 100%;
