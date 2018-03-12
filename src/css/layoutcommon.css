@@ -108,6 +108,10 @@ footer .fa {
 	text-align : center;
 }
 
+.material-icons {
+	font-size : 45px
+}
+
 /* fin searchbar */
 
 @media (max-width: 767px) and (min-width: 481px){
