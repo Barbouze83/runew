@@ -95,7 +95,7 @@ footer .fa {
 	max-width : 100%;
 }
 
-inptut, select, textarea {
+input, select, textarea {
 	color : white;
 }
 input::placeholder {
