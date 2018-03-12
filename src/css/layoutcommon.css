@@ -95,8 +95,13 @@ footer .fa {
 	max-width : 100%;
 }
 
-.input::placeholder, .select, .textarea,
-.input::-ms-input-placeholder  {
+.input::placeholder, .select, .textarea {
+	color : white;
+	font-size : 18px;
+	font-weight : 350;
+}
+
+.input::-ms-input-placeholder {
 	color : white;
 	font-size : 18px;
 	font-weight : 350;
