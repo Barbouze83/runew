@@ -95,6 +95,13 @@ footer .fa {
 	max-width : 100%;
 }
 
+#search2.input::placeholder, #search2.select, #search2.textarea,
+#search2.input::-ms-input-placeholder  {
+	color : white;
+	font-size : 18px;
+	font-weight : 350;
+}
+
 .btn-search2{
 	background : rgba(43, 43, 43, 0.15);
 	color : #fff;
