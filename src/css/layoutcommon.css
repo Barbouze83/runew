@@ -85,6 +85,15 @@ footer .fa {
 	position : relative;
 }
 
+#search2{
+	height : 60px;
+	padding : 0 10px;
+	border : none;
+	width : 100%;
+	display : block;
+	max-width : 100%;
+}
+
 /* fin searchbar */
 
 @media (max-width: 767px) and (min-width: 481px){
