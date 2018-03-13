@@ -36,7 +36,7 @@ background:none;
 }
 .product-img img  {
     min-width : 50px;
-    max-width: 150px;
+    /*max-width: 150px;*/
     height:auto;
 }
 /*
