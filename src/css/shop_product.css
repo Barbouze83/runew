@@ -83,7 +83,7 @@ background:none;
     position: absolute;
 }
 .stock-status {
-    border-radius : 50%;
+    border-radius : 90%;
 }
 
 /* fin affichage du stock */
