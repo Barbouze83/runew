@@ -79,6 +79,10 @@ background:none;
     height : auto;
 }
 
+.stock-panel {
+    position: absolute;
+}
+
 .price  {
     color : #303030;
     font-weight: 300;
