@@ -19,6 +19,7 @@ background:none;
 }*/
 .products .product-container .inner{
     overflow: visible;
+    padding-bottom: 100px;
 }
 .products .product-left{
     overflow :visible;
@@ -79,19 +80,18 @@ background:none;
     height : auto;
 }
 /* début affichage du stock*/
-.stock-panel {
+/*.stock-panel {
     position: absolute;
-}
+}*/
 .stock-status {
     border-radius : 90%;
 }
 
 /* fin affichage du stock */
 
-
 .price  {
-    color : #303030;
-    font-weight: 300;
+    color : #FF6600;
+    /*font-weight: 300;*/
 }
 .product-name {
     text-align : center;
@@ -142,7 +142,7 @@ background:none;
     -moz-border-radius: 0px;
     border-radius: 0px;
     -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
-    -moz-box-shadow: 0px 0px px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 0px 0px rgba(216, 0, 0, 0.5);
     float: left;
     width: 100%;
