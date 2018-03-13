@@ -88,7 +88,18 @@ background:none;
 }
 
 /* fin affichage du stock */
+/* mise en page des etoiles*/
+.o_rating_star_card .stars i {
+    margin-right: 0px;
+}
 
+.o_rating_star_card .stars {
+    display: block;
+    margin: 0 auto;
+    width: 70px;
+}
+
+/*Mise en page du texte sous produit*/
 .price  {
     color : #FF6600;
     /*font-weight: 300;*/
