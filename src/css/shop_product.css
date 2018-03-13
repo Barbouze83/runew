@@ -172,6 +172,12 @@ background:none;
     margin-right: auto;
 }
 
+@media (max-width: 1200px) {
+    .products .product-container .inner{
+    padding-bottom: 150px;
+    }
+}
+
 @media (max-width: 767px) {
     /*Boutton produit por petits ecrans*/
     .products .product-left {
