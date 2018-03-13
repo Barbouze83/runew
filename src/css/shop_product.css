@@ -78,10 +78,16 @@ background:none;
     max-width: 200px;
     height : auto;
 }
-
+/* début affichage du stock*/
 .stock-panel {
     position: absolute;
 }
+.stock-status {
+    border-radius : 50%;
+}
+
+/* fin affichage du stock */
+
 
 .price  {
     color : #303030;
