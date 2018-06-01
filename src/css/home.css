@@ -114,10 +114,16 @@ border-bottom: 1px solid white;
       background-size: 100% 100%;
       background-attachment:initial !important;
    }
+   
+   
 }
 
 @media (max-width: 480px) {
-      #video_hero {
+      #hero {
+         background-position: center;
+   }
+   
+   #video_hero {
          display : none;
       }
       #svg-logo {
