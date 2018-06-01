@@ -105,7 +105,7 @@ border-bottom: 1px solid white;
    }
    .hero-banner h1 {
     font-size: 35px;
-    text-align: center;
+    text-align: left;
    }
 }
 
@@ -162,11 +162,6 @@ and (orientation : landscape) {
       #svg-logo {
          width : 25vw; 
       }
-      #hero_ban {
-         background-image: url("../img/landing_HQ_paysage2.jpg");
-         background-repeat: no-repeat;
-         background-size: cover;
-     }
 }
 
 @media only screen 
@@ -179,11 +174,6 @@ and (orientation : portrait) {
       #svg-logo {
          width : 25vw; 
       }
-      #hero_ban {
-         background-image: url("../img/landing_HQ_portrait2.jpg");
-         background-repeat: no-repeat;
-         background-size: cover;
-     }
 }
 /* iPad retina */
 @media only screen 
@@ -197,11 +187,6 @@ and (-webkit-min-device-pixel-ratio: 2){
       #svg-logo {
          width : 25vw; 
       }
-      #hero_ban {
-         background-image: url("../img/landing_HQ_paysage2.jpg");
-         background-repeat: no-repeat;
-         background-size: cover;
-     }
 }
 @media only screen 
 and (min-device-width : 768px) 
@@ -214,11 +199,6 @@ and (-webkit-min-device-pixel-ratio: 2){
       #svg-logo {
          width : 25vw; 
       }
-      #hero_ban {
-         background-image: url("../img/landing_HQ_portrait2.jpg");
-         background-repeat: no-repeat;
-         background-size: cover;
-     }
 }
 
 
