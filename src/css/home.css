@@ -112,10 +112,9 @@ border-bottom: 1px solid white;
       border-bottom-width: 2px;
    }
    #moto {
-         margin-top: 25px;
          padding-right: 10px;
          padding-left : 10px;
-         float: unset;
+         float : left;
    }
    .hero-banner h1 {
     font-size: 35px;
@@ -152,10 +151,9 @@ border-bottom: 1px solid white;
          text-align: center;
      }
      #moto {
-         margin-top: 25px;
          padding-right: 10px;
          padding-left : 10px;
-         float: unset;
+         float : left;
      }
   
   .hero-banner h1 {
