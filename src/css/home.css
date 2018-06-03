@@ -49,7 +49,7 @@ body {
    margin: 5px;
 }
 #moto {
-  padding-right: 50px;
+  padding-right: 0px;
   height: fit-content;
   display: inline-flex;
   vertical-align: middle;
