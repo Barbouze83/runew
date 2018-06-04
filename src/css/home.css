@@ -23,11 +23,6 @@ body {
   flex-wrap: wrap;
 }
 
-@font-face {
-    font-family: "bernie";
-    src: url('web/static/src/fonts/bernadette.ttf') format("ttf");
-}
-  
 .row {
    margin-left: 0;
    margin-right: 0;
