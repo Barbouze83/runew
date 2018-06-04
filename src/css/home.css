@@ -10,6 +10,7 @@ body {
     background-image: -ms-linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
     background-image: -o-linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
     background-image: linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
+}
   
 .row {
    margin-left: 0;
