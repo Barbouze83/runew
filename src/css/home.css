@@ -38,6 +38,11 @@ body {
     filter: alpha(opacity=40); /* For IE8 and earlier */
 }
 
+#wecare {
+    font-family: 'bernie'; 
+    color: #FFF;
+}
+
 #login_div {
    width: 100%;
    float : right;
