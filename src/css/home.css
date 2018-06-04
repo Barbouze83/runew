@@ -11,6 +11,11 @@ body {
     background: -o-linear-gradient(30deg, #5CB9CD 35%, #3EBD93);
     background: linear-gradient(30deg, #5CB9CD 35%, #3EBD93);
 }
+
+@font-face {
+    font-family: bernie;
+    src: url(/web/static/src/fonts/bernadette.ttf);
+}
   
 .row {
    margin-left: 0;
