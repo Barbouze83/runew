@@ -12,6 +12,12 @@ body {
     background: linear-gradient(30deg, #5CB9CD 35%, #3EBD93);
 }
 
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
+
 @font-face {
     font-family: bernie;
     src: url('web/static/src/fonts/bernadette.ttf') format("ttf");
