@@ -5,11 +5,11 @@ body {
 }
 
 #getupmobile {
-    background-image: -webkit-linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
-    background-image: -moz-linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
-    background-image: -ms-linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
-    background-image: -o-linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
-    background-image: linear-gradient(30deg, #5CB9CD 60%, #3EBD93 40%);
+    background: -webkit-linear-gradient(30deg, #5CB9CD 60%, #3EBD93);
+    background: -moz-linear-gradient(30deg, #5CB9CD 60%, #3EBD93);
+    background: -ms-linear-gradient(30deg, #5CB9CD 60%, #3EBD93);
+    background: -o-linear-gradient(30deg, #5CB9CD 60%, #3EBD93);
+    background: linear-gradient(30deg, #5CB9CD 60%, #3EBD93);
 }
   
 .row {
