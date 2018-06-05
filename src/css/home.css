@@ -12,7 +12,7 @@
 }
 
 #chevrcontrol {
-  background-color: none;
+  background-color: unset;
   font-size: 30px;
   right: unset;
   left: unset;
