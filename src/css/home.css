@@ -1,13 +1,9 @@
-#review-section{
-  background-image: url('/web/static/src/img/review.png');
-  background-size: cover;
-  height: 480px;
-}
+
 .fa-star {
   color: #EFD807;
 }
 .tcb-carousel-reviews {
-  background: #5cb9cd;
+  background: unset;
 }
 .tcb-carousel-reviews .carousel-control.left,
 .tcb-carousel-reviews .carousel-control.right {
