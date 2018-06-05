@@ -10,6 +10,14 @@
   background: none;
   width: 25px;
 }
+
+#chevrcontrol {
+  background-color: none;
+  font-size: 30px;
+  right: unset;
+  left: unset;
+}
+
 .tcb-carousel-reviews .item {
   padding: 30px;
 }
