@@ -184,7 +184,17 @@ body {
     line-height: 110%;
 }
 
-#features h3{
+h2 {
+  font-family: 'Kaushan Script', cursive;
+  color: #FFF;
+  font-size: 3em;
+  }
+
+h3 {
+  color: #FFF;
+}
+
+#features {
    font-size : 18px;
 }
 
@@ -285,12 +295,6 @@ border-bottom: 1px solid white;
     font-size: 20px;
     text-align: center;
    }
-  
-  h2 {
-  font-family: 'Kaushan Script', cursive;
-  color: #FFF;
-  font-size: 3em;
-  }
   
     h4 {
     font-size: 12px:
