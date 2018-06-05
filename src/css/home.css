@@ -59,9 +59,10 @@
   z-index: 2;
 }
 .tcb-carousel-reviews .person-text a {
-  color: #ffcc00;
+  font-family: 'Kaushan Script', cursive;
+  color: #FFF;
+  font-size: 1.7em;
   display: block;
-  font-size: 14px;
   margin-top: 3px;
   text-decoration: underline;
 }
