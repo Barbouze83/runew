@@ -1,4 +1,8 @@
-
+#review-section{
+  background-image: url('/web/static/src/img/review.png');
+  background-size: cover;
+  height: 480px;
+}
 .fa-star {
   color: #EFD807;
 }
