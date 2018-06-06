@@ -86,7 +86,7 @@ footer .fa {
 	margin-top : 20px;
 }
 
-#search2{
+#search_autocomplete{
 	height : 62px;
 	padding : 0 10px;
 	border : none;
@@ -95,7 +95,7 @@ footer .fa {
 	max-width : 100%;
 }
 
-input#search2, select#search2, textarea#search2 {
+input#search_autocomplete, select#search_autocomplete, textarea#search_autocomplete {
 	color : white;
 }
 input::placeholder {
