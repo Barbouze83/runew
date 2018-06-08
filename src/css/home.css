@@ -102,12 +102,6 @@ body {
   padding-left : 0;
 }
 
-a:hover {
-  -webkit-transform: scale(1.2);
-  -moz-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-}
-
 #getupmobile {
     background: -webkit-linear-gradient(30deg, #5CB9CD 35%, #3EBD93);
     background: -moz-linear-gradient(30deg, #5CB9CD 35%, #3EBD93);
