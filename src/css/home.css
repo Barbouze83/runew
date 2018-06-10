@@ -115,6 +115,14 @@ body {
     font-size: 2em;
 }
 
+.button_servselec {
+    max-width: 30vw;
+}
+
+.button_servselec_img {
+    max-width: 100%;
+}
+
 .equal {
   display: flex;
   display: -webkit-flex;
